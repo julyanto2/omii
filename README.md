@@ -1,4 +1,4 @@
-# <img src="https://github.com/julyanto2/julyanto2/blob/main/Hi.gif" width="32px"><i>Howdy there, it's my 3rd Repo</i>
+# <img src="https://github.com/julyanto2/omii/blob/main/Hi.gif" width="32px"><i>Howdy there, it's my 3rd Repo</i>
 # omii
 it's a Omii
 
