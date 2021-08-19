@@ -1,14 +1,13 @@
 ## Name: Omii
-## Author: Julyanto 'Email: febrianjulianto405@gmail.com'
-## Copyright (c) 2021 Julianto Febrian ## All Rights Reserved
-## LICENSE in August 2021 under MIT LICENSE
+## Author: ./Julyanto 'Email: febrianjulianto405@gmail.com'
+## Copytight (c) 2021 Julianto Febrian ##All Right Reserved
+## LICENSE: in august 2021 under MIT LICENSE
 ##
-## It's a Omii Bots.
-##
+## it'a a Omii
+## Omii Omii Omii Omii Omii Omii
 $the_cow = <<EOC;
-    $thoughts
      $thoughts
-      $thoughts          
+        $thoughts 
     _______             _______         
    |@|@|@|@|           |@|@|@|@|       
    |@|@|@|@|   _____   |@|@|@|@|       
@@ -16,12 +15,12 @@ $the_cow = <<EOC;
    |@|@|@|@||/\\ T T /\\||@|@|@|@|
     ~/T~~T~||~\\/~T~\\/~||~T~~T\\~
      \\|__|_| \\(-(O)-)/ |_|__|/
-      _| _|    \8_8//    |_ |_
-   |(@)]   /~~[______]~~\   [(@)|
-      ~   (  |       |  )    ~
-         [~` ]       [ '~]
-         |~~|         |~~|
-         |  |         |  |
-        _<\\/>_       _<\\/>_
+      _| _|    \\8_8/   |_ |_
+     |(@)] /~~[_____]~~\\  [(@)|
+     ~     (  |     |  )     ~
+          [~` ]     [ '~]
+          |~~|       |~~|
+          |  |       |  |
+        _<\\/>_      _<\\/>_
        /_====_\\     /_====_\\
 EOC
