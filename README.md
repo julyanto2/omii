@@ -28,4 +28,4 @@ cowsay -f omii "Replace with your text" | lolcat
 ```
 _________________
 ### Screenshot:
-<img src="https://github.com/julyanto2/omii/blob/main/sekrinsut.png">
+<img src="https://github.com/julyanto2/omii/blob/main/sekrinsut.png" width="auto">
