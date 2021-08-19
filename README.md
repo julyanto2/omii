@@ -21,4 +21,4 @@ $ gem install lolcat
 $ pkg install cowsay
 ```
 # <i>usages</i>
-execute a cow flags file with ```cowsay -f omii "Replace with your text" | lolcat``` command
+execute a cow flags file with ```cowsay -f omii "Replace with your text" | lolcat```
