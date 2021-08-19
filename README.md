@@ -20,6 +20,7 @@ $ pkg install ruby
 $ gem install lolcat
 $ pkg install cowsay
 ```
+
 # <i>usages</i>
 execute a cow flags file with 
 ```bash
