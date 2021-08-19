@@ -1,4 +1,3 @@
-# <img src="https://github.com/julyanto2/julyanto2/blob/main/Hi.gif" width="32px"><i>Howdy there, it's my 3rd Repo</i>
 # <i>omii</i>
 it's a Omii
 
@@ -29,3 +28,9 @@ cowsay -f omii "Replace with your text" | lolcat
 _________________
 ### Screenshot:
 <img src="https://github.com/julyanto2/omii/blob/main/sekrinsut.png" width="auto">
+
+## Contactus
+* [`WhatsApp`](https://wa.me/6281223461910)
+* [`Telegram`](https://t.me/Thomasperkins)
+* [`Facebook`](#)
+* [`Instagram`](#)
