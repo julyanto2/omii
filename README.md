@@ -10,9 +10,10 @@ $ cd omii
 ```
 
 # <i>move a file</i>
-move a ```omii.cow``` files from ```~``` or
+\
+```cd omii``` and move a ```omii.cow``` files from ```~``` or
 ```home diretory``` to ```cows directory```
-use ```$ cp omii.cow ../usr/share/cows``` command
+use ```$ cp omii.cow ../../../usr/share/cows``` command
 # <i>install a packages</i>
 <b>Instantly</b>```sh install.sh```
 ```bash
