@@ -22,4 +22,10 @@ $ gem install lolcat
 $ pkg install cowsay
 ```
 # <i>usages</i>
-execute a cow flags file with ```cowsay -f omii "Replace with your text" | lolcat```
+execute a cow flags file with 
+```bash
+cowsay -f omii "Replace with your text" | lolcat
+```
+_________________
+### Screenshot:
+<img src="https://github.com/julyanto2/omii/blob/main/sekrinsut.png">
