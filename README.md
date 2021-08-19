@@ -1,8 +1,8 @@
-# <img src="https://github.com/julyanto2/omii/blob/main/Hi.gif" width="32px"><i>Howdy there, it's my 3rd Repo</i>
-# omii
+# <img src="https://github.com/julyanto2/julyanto2/blob/main/Hi.gif" width="32px"><i>Howdy there, it's my 3rd Repo</i>
+# <i>omii</i>
 it's a Omii
 
-# clone this git
+# <i>clone this git</i>
 ```bash
 $ pkg install git
 $ git clone https://github.com/julyanto2/omii
@@ -10,14 +10,15 @@ $ cd omii
 ```
 
 # <i>move a file</i>
-move a ```Omii.cow``` files from ```~``` or
+move a ```omii.cow``` files from ```~``` or
 ```home diretory``` to ```cows directory```
-use ```$ cp Omii.cow ../usr/share/cows``` command
-# install a packages
+use ```$ cp omii.cow ../usr/share/cows``` command
+# <i>install a packages</i>
+<b>Instantly</b>```sh install.sh```
 ```bash
 $ pkg install ruby
-$ gem install lol at
+$ gem install lolcat
 $ pkg install cowsay
 ```
-# usages
-execute a cow flags file with ```cowsay -f Omii "Replace with your text" | lolcat``` command
+# <i>usages</i>
+execute a cow flags file with ```cowsay -f omii "Replace with your text" | lolcat``` command
